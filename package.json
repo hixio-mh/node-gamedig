@@ -34,7 +34,7 @@
 		"punycode": "^2.1.1",
 		"request": "^2.88.0",
 		"request-promise": "^4.2.4",
-		"varint": "^5.0.0"
+		"varint": "^5.0.2"
 	},
 	"bin": {
 		"gamedig": "bin/gamedig.js"
