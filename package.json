@@ -48,7 +48,7 @@
 		"README.md"
 	],
 	"devDependencies": {
-		"@types/cheerio": "^0.22.13",
+		"@types/cheerio": "^0.22.29",
 		"@types/node": "^8.10.54"
 	}
 }
